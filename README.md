@@ -22,7 +22,7 @@ Make sure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/shopping-mall-api.git
+git clone https://github.com/kamomkoyan2/shoping-mall-api
 cd shopping-mall-api
 ```
 
